@@ -1,4 +1,4 @@
-## Resolução de exercícios utilizando a linguagem funcional Scheme
+## Resolução de atividades utilizando a linguagem funcional Scheme
 ### Índice:
 - **Questão 1** - Desenvolva uma função tamlista que retorna o tamanho (número de elementos) de uma lista.
 - **Questão 2** - Implemente uma função 'deaparab' que receba dois inteiros 'a' e 'b' e retorne uma lista com todos os inteiros entre os dois parâmetros.
